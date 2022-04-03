@@ -1,0 +1,1 @@
+Demonstrate how to use CMake to conditionally compile source code depending on the operating system
