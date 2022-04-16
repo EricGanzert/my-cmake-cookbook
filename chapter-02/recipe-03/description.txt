@@ -1,0 +1,1 @@
+In this recipe we use CMake to accomodate the conditional compilation of source code that depends on the environment.
