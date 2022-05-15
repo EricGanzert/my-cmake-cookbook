@@ -1,0 +1,3 @@
+This recipe builds an executable embedding the Python interpreter.
+We will us find_package to find the Python development headers
+and library.
